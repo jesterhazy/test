@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.5
+
+### Other changes and improvements
+
+ * empty
+
 ## 1.1.4
 
 ## 1.1.3
