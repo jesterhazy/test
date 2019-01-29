@@ -10,6 +10,16 @@
 
  * fix something
 
+## 1.2.0
+
+### New features
+
+ * add something
+
+### Bug fixes
+
+ * fix something
+
 ## 1.1.5
 
 ### Other changes and improvements
