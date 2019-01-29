@@ -6,6 +6,12 @@
 
  * fix something
 
+## v1.2.2
+
+### Bug fixes
+
+ * fix something
+
 ## v1.2.1
 
 ### Bug fixes
