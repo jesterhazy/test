@@ -6,6 +6,14 @@
 
  * fix something new
  * fix something new
+ * fix something new
+
+## v1.2.4
+
+### Bug fixes
+
+ * fix something new
+ * fix something new
 
 ## v1.2.4
 
