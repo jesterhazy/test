@@ -1,5 +1,15 @@
 # Changelog
 
+## v1.3.0 (2019-01-29)
+
+### Features
+
+ * fix something new
+
+### Bug fixes
+
+ * fix something new
+
 ## v1.2.7 (2019-01-29)
 
 ### Bug fixes
