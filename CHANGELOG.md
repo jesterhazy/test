@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.2.5
+
+### Bug fixes
+
+ * fix something new
+
 ## v1.2.4
 
 ### Bug fixes
